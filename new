@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jahangir Hassan - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1e1e1e;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #111;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 36px;
+        }
+        main {
+            padding: 20px;
+            text-align: left;
+        }
+        section {
+            margin-bottom: 30px;
+        }
+        h2 {
+            color: #f9bf0b;
+        }
+        h3 {
+            color: #f9bf0b;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .project-details {
+            margin-top: 10px;
+        }
+        .project-details p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jahangir Hassan</h1>
+    </header>
+    <main>
+        <section>
+            <h2>🌟 Dedicated and passionate Civil Engineering student seeking to contribute to innovative projects, eager to gain industry insights and make a positive impact through strong analytical and teamwork skills.</h2>
+        </section>
+        <section>
+            <h2>Contact Information</h2>
+            <div class="contact-info">
+                <p>Cell: +923176459947</p>
+                <p>Email: jahangirhassan2003@gmail.com</p>
+                <p>Address: HOUSE NO 12, WARD NO 3, HUSSAIN CHOWK, KHANEWAL, Pakistan</p>
+            </div>
+        </section>
+        <section>
+            <h2>Technical Skills</h2>
+            <ul>
+                <li>Structural testing</li>
+                <li>Microsurvey CAD</li>
+                <li>Construction contracts</li>
+                <li>AutoCAD</li>
+                <li>Quantity and cost estimation</li>
+                <li>Primavera for planning</li>
+                <li>AutoCAD, Plaxis 2D, Slide, ETABS</li>
+                <li>Project planning</li>
+                <li>Steel designing</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Soft Skills</h2>
+            <ul>
+                <li>Strong work ethics</li>
+                <li>Communication skills</li>
+                <li>Human resource management</li>
+                <li>Networking</li>
+                <li>Microsoft Word, Excel, Project</li>
+                <li>Communication and presentation</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Education</h2>
+            <ul>
+                <li><strong>BE Civil Engineering</strong></li>
+                <ul class="education-details">
+                    <li>NUST Institute of Civil Engineering</li>
+                    <li>GPA: 3.17</li>
+                </ul>
+                <li>Matric / O levels (2019)</li>
+                <li>Intermediate / A levels (2021)</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Internship Experience</h2>
+            <div class="project-details">
+                <h3>EMS Consultant (01-Aug-2023 to 01-Sep-2023)</h3>
+                <p>- Learned about contract management and how organizations construct documents for their clients to seek time or monetary recompense extensions.</p>
+                <p>- Gained insights into FIDIC (International Federation of Consulting Engineers) guidelines.</p>
+            </div>
+        </section>
+        <section>
+            <h2>Projects</h2>
+            <div class="project-details">
+                <h3>Cost Estimation of an Office Building (09/2023 to 04/2024)</h3>
+                <p>- Led a comprehensive cost estimation analysis for an office building.</p>
+                <p>- Meticulously delved into construction expenses and planning.</p>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
